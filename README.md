@@ -14,6 +14,12 @@ franciscogamez@ciencias.unam.mx
 La pagina para Iniciar la practica 5 es :
 http://localhost:8080/practica/
 
+El manejador de bases de datos que ocupo es postgres 10
+La contraseña que puse es tecnologias
+y el usuario tecnologias
+de cualquier forma todo esta en el aplication.propertys
+
+
 ## Posible problema en practica 5 ##
 
 Solution for Eclipse 
