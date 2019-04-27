@@ -1,6 +1,13 @@
-Alumno: Francisco Daniel Gamez Garcia
-No cuenta: 312215176
-url de inicio: http://localhost:8080/tarea/
+
+## Descripción Practica 5 ##
+La pagina para Iniciar la practica 5 es :
+http://localhost:8080/practica/
+
+El manejador de bases de datos que ocupo es postgres 10
+El query esta en la carpeta de la tarea
+
+
+## Posible problema en la tarea4 ##
 
 La practica se realizo con maven, a mi me dio un problema al inicio, una posible spolucion es
 Solución para Eclipse
