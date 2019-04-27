@@ -1,7 +1,7 @@
 
 ## Descripción tarea 4 ##
 La pagina para Iniciar la tarea 4 es :
-http://localhost:8080/practica/
+http://localhost:8080/tarea/
 
 El manejador de bases de datos que ocupo es postgres 10
 El query esta en la carpeta de la tarea
